@@ -1,0 +1,1 @@
+{"local": "C:/TEST/SEND/EQ", "backup": "C:/TEST/BACKUP", "heartBeat": "2", "messagePriority": "XX", "blockIdentifier1": "1", "blockIdentifier2": "2", "applicationIdentifier": "F", "inOutIdentifier": "I", "serviceIdentifier": "01", "ltIdentifier" : "VSDVCSXXAXXX", "receiverAddress": "VSDSVN", "deliveryMonitoring": "NXX", "sessionNumberSndEq": "2222"}

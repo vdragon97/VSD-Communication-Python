@@ -1,0 +1,1 @@
+{"user": "vn", "password": "vn", "host": "100.168.1.21", "port": "1521", "serviceName": "VIETNAM", "tableSession": "VSDCMNCT", "sleepTime": "2", "tableVsdSendEq": "VSDSNDEQ", "tableVsdRecvEq" : "VSDRCVEQ", "tableVsdCsvEq":"VSDCSVEQ", "tableVsdSendDr": "VSDSNDDR", "tableVsdRecvDr": "VSDRCVDR"}
